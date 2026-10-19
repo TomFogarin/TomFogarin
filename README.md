@@ -26,7 +26,7 @@ Can generative AI design quantum circuits? This project explores **Hamiltonian-c
 
 ### 🔆 RIXS Beamline Data Tools at Synchrotron SOLEIL
 Python data management system and **interactive GUI** built during my internship at the **RIXS (Resonant Inelastic X-ray Scattering) beamline** of Synchrotron SOLEIL (Paris). It processes **HDF5** data from CMOS detectors and lets scientists do **spectral analysis, mathematical corrections and energy calibration** in one place, with automated data cataloging that speeds up the beamline workflow for researchers and PhD students.
-👉 [Repository](https://github.com/...)
+👉 [Repository](https://github.com/TomFogarin/rixs-beamline-gui)
 
 ### 🧪 More coming soon
 Spin glass simulations and other computational physics experiments from my Master's coursework.
