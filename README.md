@@ -18,7 +18,7 @@
 ### 🌬️ DSMC & TRMC for the Boltzmann Equation
 Monte Carlo particle methods for rarefied gas dynamics, from Bird's **Direct Simulation Monte Carlo** to **Time Relaxed Monte Carlo** schemes (after Pareschi & Russo). TRMC stays efficient as the Knudsen number goes to zero, where classical DSMC becomes prohibitively expensive.
 📄 Accompanying self-contained report, written to be accessible to newcomers.
-👉 [Repository](https://github.com/...)
+👉 [Repository](https://github.com/TomFogarin/boltzmann-dsmc-trmc)
 
 ### ⚛️ Diffusion Models for VQE Ansatz Generation
 Can generative AI design quantum circuits? This project explores **Hamiltonian-conditioned ansatz generation** for Variational Quantum Eigensolvers: a specialized VQE dataset built with a custom genetic algorithm, a Hamiltonian Transformer Encoder with efficient tokenization of Pauli operators, and fine-tuning of **CirDiT** (257M-parameter diffusion model) for circuit synthesis.
