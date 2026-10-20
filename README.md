@@ -22,7 +22,7 @@ Monte Carlo particle methods for rarefied gas dynamics, from Bird's **Direct Sim
 
 ### ⚛️ Diffusion Models for VQE Ansatz Generation
 Can generative AI design quantum circuits? This project explores **Hamiltonian-conditioned ansatz generation** for Variational Quantum Eigensolvers: a specialized VQE dataset built with a custom genetic algorithm, a Hamiltonian Transformer Encoder with efficient tokenization of Pauli operators, and fine-tuning of **CirDiT** (257M-parameter diffusion model) for circuit synthesis.
-👉 [Repository](https://github.com/...)
+👉 [Repository](Temporarily unavailable (Reorganizing repository))
 
 ### 🔆 RIXS Beamline Data Tools at Synchrotron SOLEIL
 Python data management system and **interactive GUI** built during my internship at the **RIXS (Resonant Inelastic X-ray Scattering) beamline** of Synchrotron SOLEIL (Paris). It processes **HDF5** data from CMOS detectors and lets scientists do **spectral analysis, mathematical corrections and energy calibration** in one place, with automated data cataloging that speeds up the beamline workflow for researchers and PhD students.
